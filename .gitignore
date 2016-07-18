@@ -1,0 +1,8 @@
+# jetbran config
+.idea
+
+# other file
+.DS_Store
+
+# config unit tests
+phpunit-4.8.26.phar
