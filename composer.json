@@ -1,0 +1,13 @@
+{
+    "name": "cedric/check-system",
+    "description": "systeme de verififcation de formulaire en php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cedric",
+            "email": "cedric@adigit.com"
+        }
+    ],
+    "require": {}
+}
